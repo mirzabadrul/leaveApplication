@@ -1,0 +1,99 @@
+/* Import Google font - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: crimson;
+}
+
+header a {
+    text-decoration: none;
+    color: #000;
+}
+
+.container {
+    position: relative;
+    max-width: 700px;
+    width: 100%;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.container header {
+    font-size: 1.6rem;
+    color: #333;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.form .input-box {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.input-box label {
+    color: #333;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.input-box input {
+    height: 50px;
+    width: 100%;
+    outline: none;
+    font-size: 1rem;
+    color: #000;
+    cursor: pointer;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 0 15px;
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+.input-box input:focus {
+    box-shadow: 0 0 5px rgba(130, 106, 251, 0.5);
+}
+
+.form .column {
+    display: flex;
+    column-gap: 15px;
+}
+
+.form button {
+    height: 55px;
+    width: 100%;
+    color: #000;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background: #A9A9A9;
+    border-radius: 6px;
+}
+
+.form button:hover {
+    background: crimson;
+}
+
+@media screen and (max-width: 500px) {
+    .form .column {
+        flex-wrap: wrap;
+    }
+}

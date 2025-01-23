@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+/* General Styling */
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f4f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header Section */
+.header {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    width: 80%;
+}
+
+.header img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 8px; 
+}
+
+.header h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #2c3e50;
+    font-size: 2rem;
+    margin: 0 auto;
+    font-weight: 500;
+}
+
+/* Leave Information Styling */
+.details {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.details strong {
+    color: #34495e;
+    font-weight: bold;
+}
+
+.details p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #7f8c8d;
+    margin-top: 480px;
+    padding: 10px 0;
+    background-color: #f0f4f8;
+    border-top: 1px solid #ddd;
+    width: 100%;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.font-light {
+    font-weight: 300;
+}
+
