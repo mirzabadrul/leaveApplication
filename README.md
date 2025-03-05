@@ -21,8 +21,9 @@
 
 ## Technologies Used
 
-* **Backend:** [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
-
+* **Frontend:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white).
+* **Backend:**  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white).
+* **Database:** ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white).
 
 ## Screenshots
 
@@ -31,7 +32,9 @@
 ![Admin Panel]()
 
 
-  
+For any questions or issues, please contact:
+
+* mirzabadrul - mirzabadrul97@gmail.com
   
 
   
