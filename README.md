@@ -5,14 +5,19 @@
 ## 📃Key Features
 
 User Authentication
+
 - Employess login using unique credentials (username/email).
 - Different access levels for employees, managers, and administrators.
 - Implements encryption and verification techniques.
+  
 Leave Request Submission
+
 - Easily submit leave requests.
 - Allows attachments for supporting documents (e.g., medical certificates).
 - Provide the leave type (annual, sick, etc.), start and end dates, and reasons for the leave.
+  
 Leave Approval Workflow
+
 - Leave requests are routed to the appropriate manager or approver.
 - Approver can review requests and approve or reject them.
 - Employees can review their requests.
