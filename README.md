@@ -31,8 +31,6 @@ Leave Approval Workflow
 ## Screenshots
 
 ![Leave Application Homepage](https://github.com/mirzabadrul/leaveApplication/blob/7e3e2e7dddaee7b7099c7e5cf0f106c371d13928/homepage.png)
-![Leave Approval Dashboard](https://github.com/mirzabadrul/leaveApplication/blob/0f82ecbd2befd9c37bee5b48b606e655f8d89758/dashboard.png)
-
 
 For any questions or issues, please contact:
 
