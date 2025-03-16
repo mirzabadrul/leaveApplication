@@ -1,14 +1,14 @@
 # Leave Application System - Top Click Sdn Bhd💻💉
 
-- A Leave Application System designed specifically for Top Click Sdn Bhd. Streamline the process of requesting, approving and managing employee leave within an organization. It replaces the old paper-based or manual leave management method.
+- A Leave Application System designed specifically for Top Click Sdn Bhd. It streamlines the process of requesting, approving, and managing employee leave within an organization. It replaces the old paper-based or manual leave management method.
 
 ## 📃Key Features
 
 User Authentication
 
-- Employess login using unique credentials (username/email).
+- Employees login using unique credentials (username/email).
 - Different access levels for employees, managers, and administrators.
-- Implements encryption and verification techniques.
+- It implements encryption and verification techniques.
   
 Leave Request Submission
 
