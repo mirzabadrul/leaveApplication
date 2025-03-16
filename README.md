@@ -31,7 +31,7 @@ Leave Approval Workflow
 ## Screenshots
 
 ![Leave Request Form]()
-![Leave Approval Dashboard]()
+![Leave Approval Dashboard](https://github.com/mirzabadrul/leaveApplication/blob/0f82ecbd2befd9c37bee5b48b606e655f8d89758/dashboard.png)
 ![Admin Panel]()
 
 
